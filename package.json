@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3-rc.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggda270/Employee-Tracker.git"
+  },
+  "keywords": [
+    "Node",
+    "Inquirer",
+    "Mysql"
+  ],
+  "author": "Daniel Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biggda270/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/biggda270/Employee-Tracker#readme"
+}
